@@ -1,0 +1,6 @@
+{
+  "name": "crochet.softdiaries",
+  "description": "Where yarn meets imagination. A premium handmade crochet shop with cozy, whimsical modern vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
